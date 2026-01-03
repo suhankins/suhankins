@@ -21,8 +21,8 @@ Baby, **make me something** 'fore I get that call
 ---
 # PC Specs (●'◡'●)
 * 🌸 Intel Atom N270 1.6 GHz
-* 🌸 Intel Graphics
 * 🌸 1 GB DDR2
-* 🌸 250 GB HDD
 * 🌸 8 GB SSD
+* 🌸 NEC LCD-195 VXM+ 19 Inch TFT LCD Monitor
+* 🌸 Victormaxx StuntMaster headset for Sega Mega Drive (OpenXR compatible)
 * 🌸 I play on built-in keyboard and touchpad (*^_^*)
