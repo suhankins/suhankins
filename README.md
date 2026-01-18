@@ -5,13 +5,13 @@
 # 🌸 Watashi make sugoi mods for games (rarely!!!) and make suteki games for my tomodachis (totemo rarely!) ^~^
 
 ---
-> 黒板のこの漢字が読めますか
-あの子の心象は読めますか
-その心を黒く染めたのは
-おい誰なんだよ　おい誰なんだよ
-そろばんでこの式が解けますか
-あの子の首の輪も解けますか
-僕達このまんまでいいんですか
+> 黒板のこの漢字が読めますか<br />
+あの子の心象は読めますか<br />
+その心を黒く染めたのは<br />
+おい誰なんだよ　おい誰なんだよ<br />
+そろばんでこの式が解けますか<br />
+あの子の首の輪も解けますか<br />
+僕達このまんまでいいんですか<br />
 おいどうすんだよ　おいどうすんだよ
 
 [***ロストワンの号哭 - Neru***](www.youtube.com/watch?v=8oBV3jPTW4s&vl=ja)
