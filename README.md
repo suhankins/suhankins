@@ -5,18 +5,16 @@
 # 🌸 Watashi make sugoi mods for games (rarely!!!) and make suteki games for my tomodachis (totemo rarely!) ^~^
 
 ---
-> Oh, I could be a **canvas**, I could be a **doll**</br>
-I don't think I'm even something **real at all**</br>
-I could be a **woman**, I could be a **man**</br>
-Look into the mirror, **tell me what I am**</br>
-Oh, I could be a **difference**, I could be **the same**</br>
-Try to **give me meaning**, it's a losing game</br>
-I could go to **heaven**, I could go to **hell**</br>
-Does it even matter? **I could never tell**</br>
-Oh, maybe I am **nothing**, maybe I am **all**</br>
-Baby, **make me something** 'fore I get that call
+> 黒板のこの漢字が読めますか
+あの子の心象は読めますか
+その心を黒く染めたのは
+おい誰なんだよ　おい誰なんだよ
+そろばんでこの式が解けますか
+あの子の首の輪も解けますか
+僕達このまんまでいいんですか
+おいどうすんだよ　おいどうすんだよ
 
-[***Spoken For - FLAVOR FOLEY***](https://www.youtube.com/watch?v=LvYL8u4p-aM)
+[***ロストワンの号哭 - Neru***](www.youtube.com/watch?v=8oBV3jPTW4s&vl=ja)
 
 ---
 # PC Specs (●'◡'●)
