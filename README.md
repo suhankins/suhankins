@@ -1,8 +1,8 @@
 # 🌸 Watashi wa kakkoi gamer desu ^O^
 
-# 🌸 Watashi wa very yoidere for my senpai desu >.<
+# 🌸 Watashi wa very deredere for my senpai desu >.<
 
-# 🌸 Watashi make sugoi mods for games (rarely!!!) and make suteki games for my tomodachis (totemo rarely!) ^~^
+# 🌸 Watashi make sugoi mods for games (rarely!!!) and make kawaii games for my tomodachis (totemo rarely!) ^~^
 
 ---
 > 黒板のこの漢字が読めますか<br />
