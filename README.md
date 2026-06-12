@@ -5,16 +5,16 @@
 # 🌸 Watashi make sugoi mods for games (rarely!!!) and make kawaii games for my tomodachis (totemo rarely!) ^~^
 
 ---
-> 黒板のこの漢字が読めますか<br />
-あの子の心象は読めますか<br />
-その心を黒く染めたのは<br />
-おい誰なんだよ　おい誰なんだよ<br />
-そろばんでこの式が解けますか<br />
-あの子の首の輪も解けますか<br />
-僕達このまんまでいいんですか<br />
-おいどうすんだよ　おいどうすんだよ
+ああ 遠い夢を追いかけてさ<br />
+早い早い早い早い早い<br />
+早い早い早い早い早い<br />
+早い早い早い早い追いつけないよ<br />
+捨てきれず残した思いが<br />
+憎い憎い憎い憎い憎い<br />
+憎い憎い憎い憎い憎い<br />
+憎い憎い憎い憎い許されないの?
 
-[***ロストワンの号哭 - Neru***](www.youtube.com/watch?v=8oBV3jPTW4s&vl=ja)
+[***少女 - siinamota***](https://www.youtube.com/watch?v=AqI97zHMoQw)
 
 ---
 # PC Specs (●'◡'●)
