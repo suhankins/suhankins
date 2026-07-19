@@ -33,4 +33,4 @@
 * 🌸 HDD: 250 GB
 * 🌸 Monitor: 8.9-inch Wide LCD display with 1024 x 600 resolution (WSVGA) 
 * 🌸 VR headset: Victormaxx StuntMaster headset for Sega Mega Drive (OpenXR compatible)
-* 🌸 I play on built-in keyboard and touchpad (*^_^*)
+* 🌸 I play on built-in keyboard and touchpad (\*^_^\*)
