@@ -1,4 +1,4 @@
-# 🌸 Watashi make sugoi mods for games (rarely!!!) and make kawaii games for my tomodachis (totemo rarely!) ^~^
+# 🌸 Watashi make sugoi mods for games and make kawaii games for my tomodachis ^~^
 
 ## My most 🌸kawaii🌸 projects
 
