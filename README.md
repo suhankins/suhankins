@@ -23,7 +23,7 @@
 憎い憎い憎い憎い憎い<br />
 憎い憎い憎い憎い許されないの?
 
-[***少女 - siinamota***](https://www.youtube.com/watch?v=AqI97zHMoQw)
+[***少女A - siinamota***](https://www.youtube.com/watch?v=AqI97zHMoQw)
 
 ---
 # PC Specs (●'◡'●)
