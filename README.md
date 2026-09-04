@@ -14,16 +14,28 @@
 🌸 And the rest of my projects are listed on my personal website [Detta.dev](https://detta.dev/) ☆\*: .｡. o(≧▽≦)o .｡.:\*☆
 
 ---
-ああ 遠い夢を追いかけてさ<br />
-早い早い早い早い早い<br />
-早い早い早い早い早い<br />
-早い早い早い早い追いつけないよ<br />
-捨てきれず残した思いが<br />
-憎い憎い憎い憎い憎い<br />
-憎い憎い憎い憎い憎い<br />
-憎い憎い憎い憎い許されないの?
+Check it out<br>
+I'm in the house like carpet<br>
+And if there's too many heads in my blunt I won't spark it<br>
+I'll put it in my pocket and save it like rocket fuel<br>
+'Til everybody's gone and it's cool<br>
+Then I spark it up with my brother<br>
+His momma named him Mo, but I call him Mo' Lover<br>
+And he's more than a cover, he's a quilt<br>
+We're putting shit together like that house that John built<br>
+On the hill, 'cause this shit's gonna feel like velvet, turtle<br>
+My style fits tighter than a girdle<br>
+If ya hate it then you can just leavе it, like Beaver<br>
+But in a day or two I'll makе you a true believer in me<br>
+'Cause like the alphabet you'll see<br>
+That IZM kicks a rhyme, not your everyday soliloquy<br>
+Like Chef Boyardee, my rhyme is truly cookin'<br>
+Peace to Matty Rich 'cause he's straight out of Brooklyn, New York<br>
+I don't eat pork or swine when I dine<br>
+I drink a cup of Kool-Aid, not a big glass of wine<br>
+Or a 'ken-Heine', if you have time I'll drop rhyme again<br>
 
-[***少女A - siinamota***](https://www.youtube.com/watch?v=AqI97zHMoQw)
+[***Ranking EVERY Item in TF2 Worst to Best - EMINEM***](https://youtu.be/F4iUitwL6CI?t=1308)
 
 ---
 # PC Specs (●'◡'●)
