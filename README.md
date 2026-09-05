@@ -1,20 +1,5 @@
 # 🌸 I make awesome mods for games and cool games for my friends ^~^
 
-## My stack (≧∇≦)ﾉ🌸
-
-I use whatever tools fit the project, but below are my defaults:
-
-### Programming languages
-<img width="20" src="https://cdn.simpleicons.org/typescript?viewbox=auto" /> TypeScript, <img width="20" src="https://cdn.simpleicons.org/javascript?viewbox=auto" /> JavaScript, <img width="20" src="https://cdn.simpleicons.org/dotnet?viewbox=auto" /> C#/.NET, <img width="20" src="https://cdn.simpleicons.org/lua/lightblue?viewbox=auto" /> Lua, <img width="20" src="https://cdn.simpleicons.org/css?viewbox=auto" /> CSS
-
-### Game Engines
-
-<img width="20" src="https://cdn.simpleicons.org/godotengine?viewbox=auto" /> Godot, <img width="20" src="https://cdn.simpleicons.org/unity?viewbox=auto" /> Unity
-
-### Frameworks
-
-<img width="20" src="https://cdn.simpleicons.org/nextdotjs/white?viewbox=auto" /> Next.js, <img width="20" height="20" src="https://cdn.simpleicons.org/astro?viewbox=auto" /> Astro
-
 ## Some of my 🌸kawaii🌸 projects
 
 * **[Murazu 2](https://store.steampowered.com/app/4543000/Murazu_2/)** - *Game development*
@@ -34,6 +19,21 @@ More of my projects available on:
 * [Itch.io](https://punishedbernadetta.itch.io/) - Game jam games
 * [ModWorkshop.net](https://modworkshop.net/user/punishedbernadetta) - Lua mods for PAYDAY 2 and RAID: World War II
 * [Detta.dev](https://detta.dev/) - Everything else (\*^▽^\*)
+
+## My stack (≧∇≦)ﾉ🌸
+
+I use whatever tools fit the project, but below are my defaults:
+
+### Programming languages
+<img width="20" src="https://cdn.simpleicons.org/typescript?viewbox=auto" /> TypeScript, <img width="20" src="https://cdn.simpleicons.org/javascript?viewbox=auto" /> JavaScript, <img width="20" src="https://cdn.simpleicons.org/dotnet?viewbox=auto" /> C#/.NET, <img width="20" src="https://cdn.simpleicons.org/lua/lightblue?viewbox=auto" /> Lua, <img width="20" src="https://cdn.simpleicons.org/css?viewbox=auto" /> CSS
+
+### Game Engines
+
+<img width="20" src="https://cdn.simpleicons.org/godotengine?viewbox=auto" /> Godot, <img width="20" src="https://cdn.simpleicons.org/unity?viewbox=auto" /> Unity
+
+### Frameworks
+
+<img width="20" src="https://cdn.simpleicons.org/nextdotjs/white?viewbox=auto" /> Next.js, <img width="20" height="20" src="https://cdn.simpleicons.org/astro?viewbox=auto" /> Astro
 
 ## 🌸 How to reach me ヾ(•ω•`)o
 
