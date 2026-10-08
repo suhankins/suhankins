@@ -4,6 +4,7 @@
 
 * **[Murazu 2](https://store.steampowered.com/app/4543000/Murazu_2/)** - *Game development*
     * Solo developed platformer where you launch yourself like a rocket to speedrun your way through an abandoned facility
+    * Coming to Steam, XBOX on PC, and XBOX Series X|S with cross-platform leaderboards!
     * Stack: Godot, C#, Azure Functions, PlayFab, Steamworks, Microsoft GDK, Cloudflare
 * **[Kerotan and GA-KO Checker Δ](https://github.com/suhankins/delta-kerotan-and-gako-checker)** - *Reverse engineering, Web development*
     * Website that reads your save file in [Metal Gear Solid Δ: Snake Eater](https://store.steampowered.com/app/2417610/METAL_GEAR_SOLID_D_SNAKE_EATER/) and tells you which collectables are you missing and where.
@@ -25,6 +26,7 @@ More of my projects available on:
 I use whatever tools fit the project, but below are my defaults:
 
 ### Programming languages
+
 <img width="20" src="https://cdn.simpleicons.org/typescript?viewbox=auto" /> TypeScript, <img width="20" src="https://cdn.simpleicons.org/javascript?viewbox=auto" /> JavaScript, <img width="20" src="https://cdn.simpleicons.org/dotnet?viewbox=auto" /> C#/.NET, <img width="20" src="https://cdn.simpleicons.org/lua/lightblue?viewbox=auto" /> Lua, <img width="20" src="https://cdn.simpleicons.org/css?viewbox=auto" /> CSS
 
 ### Game Engines
