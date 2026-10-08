@@ -33,7 +33,7 @@ I use whatever tools fit the project, but below are my defaults:
 
 ### Frameworks
 
-<img width="20" src="https://cdn.simpleicons.org/nextdotjs/white?viewbox=auto" /> Next.js, <img width="20" height="20" src="https://cdn.simpleicons.org/astro?viewbox=auto" /> Astro
+<img width="20" src="https://cdn.simpleicons.org/react?viewbox=auto" /> React, <img width="20" src="https://cdn.simpleicons.org/nextdotjs/white?viewbox=auto" /> Next.js, <img width="20" height="20" src="https://cdn.simpleicons.org/astro?viewbox=auto" /> Astro
 
 ## 🌸 How to reach me ヾ(•ω•`)o
 
